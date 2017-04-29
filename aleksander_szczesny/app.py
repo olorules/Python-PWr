@@ -1,1 +1,3 @@
-print("Hello Poland");
+print("Hello Poland")
+x=5
+print(x)
