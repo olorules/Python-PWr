@@ -21,7 +21,7 @@ def api_call(input_list):
         else:
             output_list.append(False)
     return output_list
-print (input_list)
+print (input_list) 
 print (api_call(input_list))
     # put your code here
     # leave the rest
