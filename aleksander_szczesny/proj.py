@@ -80,7 +80,7 @@ position = initial;
 initial[0] = "right" # we'r changing the object, not referance
 print(position)
 
-#dictionaries keys and values
+#dictionaries keys and values########
 dicty ={"key": "value", "key1": "value2"}
 print(dicty["key"])
 print(dicty)
